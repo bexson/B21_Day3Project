@@ -4,6 +4,7 @@ public class FunnyClass {
         System.out.println("Yoo whsup everyone");
         //   Today is great day
         //   Black friday is soon
+        //   Today we are practicing
 
     }
 }
